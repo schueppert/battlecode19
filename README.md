@@ -1,6 +1,6 @@
 # Mavericks
 
-Mavericks is a version of Battlecode 2019 ewpecially desighed for High Schools. Features inculude:
+Mavericks is a version of Battlecode 2019 especially desighed for High Schools. Features inculude:
 
   * Easy setup with pre-configured project settings for the free IntelliJ IDEA, PyCharm, and WebStorm IDEs and TextMate
   * Supports progreamming in Javascript, Python and Java
