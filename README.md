@@ -1,4 +1,4 @@
-#Mavericks
+#H1 Mavericks
 
 Mavericks is a version of Battlecode 2019 ewpecially desighed for High Schools. Features inculude:
 
@@ -9,4 +9,4 @@ Mavericks is a version of Battlecode 2019 ewpecially desighed for High Schools. 
   * Example player that clearly deomonstrates how to use all of the Battlecode API
   * Tournement manger which allows you to organize and run your own Battlecode tournaments
   
-###Coming soon...
+### H3 Coming soon...
